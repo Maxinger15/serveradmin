@@ -1,2 +1,2 @@
-# serveradmin
-Place for Playerreports, Server feature requests and anything else gameserver related stuff
+# Serveradmin
+Create for rule violations a new issue with the tag [violation]
